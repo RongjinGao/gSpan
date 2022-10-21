@@ -10,7 +10,6 @@ import sys
 from .config import parser
 from .gspan import gSpan
 
-
 def main(FLAGS=None):
     """Run gSpan."""
 
